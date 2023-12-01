@@ -1,3 +1,8 @@
+"""
+This Python script converts a given input of Roman numerals to its corresponding integer value. 
+The result is then displayed to the user.
+"""
+
 numeral_input = input("Enter the roman numerals you want to convert: ")
 
 def roman_to_int(numeral):
