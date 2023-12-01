@@ -1,3 +1,12 @@
+"""
+This Python script simulates the process of the Hogwarts Sorting Hat by 
+asking the user a series of questions and determining the most suitable
+house based on their answers. 
+Each house (Gryffindor, Ravenclaw, Hufflepuff, Slytherin) has a point system, 
+and the user's responses contribute to the points of the corresponding houses. 
+The house with the highest total points is then revealed as the sorted house for the user.
+"""
+
 house ={'Gryffindor':0, 'Ravenclaw':0, 'Hufflepuff':0, 'Slytherin':0}
 
 print('===============')
