@@ -1,2 +1,2 @@
-# python
-Python projects
+# Python
+Problem Solutions in Python
